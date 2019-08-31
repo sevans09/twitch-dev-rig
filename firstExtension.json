@@ -1,0 +1,59 @@
+{
+  "allowHttpBackend": false,
+  "backendCommand": "node backend -c \"84ci4ppq1jxji02x21bjaby9zww0vp\" -s \"p8gtErqB8V5dZX1Mfrjlx2zq4PBM0xCDR4cuPCGKwXc=\" -o \"458121953\"",
+  "backendFolderName": "extensions-hello-world/services",
+  "certificateExceptions": [],
+  "extensionViews": [],
+  "frontendCommand": "",
+  "frontendFolderName": "extensions-hello-world/public",
+  "manifest": {
+    "anchor": "panel",
+    "assetUrls": [],
+    "authorName": "sevans09",
+    "bitsEnabled": false,
+    "canInstall": true,
+    "configUrl": "https://localhost:8080/config.html",
+    "configurationLocation": "none",
+    "description": "",
+    "eulaTosUrl": "",
+    "hasChatSupport": false,
+    "iconUrl": "",
+    "iconUrls": {},
+    "id": "84ci4ppq1jxji02x21bjaby9zww0vp",
+    "installationCount": -42,
+    "liveConfigUrl": "",
+    "name": "First extension",
+    "panelHeight": 300,
+    "privacyPolicyUrl": "",
+    "requestIdentityLink": false,
+    "requiredBroadcasterAbilities": [],
+    "screenshotUrls": [],
+    "sku": "",
+    "state": "Testing",
+    "subscriptionsSupportLevel": "none",
+    "summary": "",
+    "supportEmail": "",
+    "vendorCode": "",
+    "version": "0.0.1",
+    "viewerSummary": "",
+    "viewerUrl": "https://localhost:8080/panel.html",
+    "viewerUrls": {
+      "panel": "https://localhost:8080/panel.html"
+    },
+    "views": {
+      "config": {
+        "canLinkExternalContent": false,
+        "viewerUrl": "https://localhost:8080/config.html"
+      },
+      "panel": {
+        "canLinkExternalContent": false,
+        "height": 300,
+        "viewerUrl": "https://localhost:8080/panel.html"
+      }
+    },
+    "whitelistedConfigUrls": [],
+    "whitelistedPanelUrls": []
+  },
+  "name": "First extension",
+  "version": 1
+}
